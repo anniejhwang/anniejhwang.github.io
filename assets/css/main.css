@@ -3219,7 +3219,11 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-			/* Navbar */
+			/* Icon list */
+
+			#ul li {
+				display:inline-block;
+		}
 
 	}
 
